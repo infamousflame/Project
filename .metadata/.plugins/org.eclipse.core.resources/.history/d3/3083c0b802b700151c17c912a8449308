@@ -2,10 +2,10 @@ package test;
 
 public class Main {
 	public static void main(String args[]){
-		print();
+
 	}
 
-	public static void print(){
+	public void print(){
 		System.out.println("Hello World");
 	}
 
