@@ -1,3 +1,4 @@
-activeuserprofiles=EHS-LAB-AS64-26;Team
+activeuserprofiles=EHS-LAB-AS64-08;EHS-LAB-AS64-26;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=dspv
+useridperkey=EHS-LAB-AS64-26.Local\=dspv;EHS-LAB-AS64-08.Local\=dspv;
